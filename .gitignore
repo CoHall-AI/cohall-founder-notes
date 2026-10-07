@@ -1,1 +1,7 @@
 .env
+
+# Bot 内部状态（非书稿内容，不进公开仓库）
+MEMORY.md
+USER.md
+.harness-memory/
+.cursor/
