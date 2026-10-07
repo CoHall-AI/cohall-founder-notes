@@ -5,3 +5,8 @@ MEMORY.md
 USER.md
 .harness-memory/
 .cursor/
+
+# Bot 内部操作记录（GTD / handoff / capture / 草稿记忆，非书稿内容）
+docs/gtd/
+inbox/
+memory/
