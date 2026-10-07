@@ -10,3 +10,8 @@ USER.md
 docs/gtd/
 inbox/
 memory/
+
+# VitePress / Node
+node_modules/
+docs/.vitepress/cache/
+docs/.vitepress/dist/
